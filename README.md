@@ -1,4 +1,10 @@
-## Neil Naveen's Links
+## Neil Naveen
+
+### About 
+
+Neil is a 9th grader who loves contributing to opensource and fighting in BJJ competitions.
+
+### Links
 
 - [Homepage](https://neilnaveen.dev)
 - [Leetcode](https://leetcode.com/neilnaveen/)
