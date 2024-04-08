@@ -16,5 +16,3 @@ Neil is a 9th grader who loves contributing to opensource and fighting in BJJ co
 - [CloudNative SecurityCon 2023 Lightning Talk](https://www.youtube.com/watch?v=K6NRUGol-rE&t=7s)
 ### Publications 
 - [Opensource.com](https://opensource.com/article/23/3/my-first-code-contribution-age-14)
-
-![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=neilnaveen&theme=dark)
