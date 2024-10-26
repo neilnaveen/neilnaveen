@@ -2,7 +2,7 @@
 
 ### About 
 
-Neil is a 9th grader who loves contributing to opensource and fighting in BJJ competitions.
+Neil loves contributing to opensource and fighting in BJJ competitions.
 
 ### Links
 
